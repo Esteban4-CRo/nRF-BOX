@@ -21,11 +21,11 @@ Inspirado en: *Video de referencia (por añadir)*
 
 | Componente | Imagen | Descripción |
 |-------------|---------|-------------|
-| **ESP32 WROOM 32U** | ![ESP32 WROOM 32U](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRHrFQJuoWDZ9F5hOc4_knXqrqqHQkSiM5YA&s) | Microcontrolador principal con conectividad WiFi/Bluetooth |
-| **ESP32 WROOM 32** | ![ESP32 WROOM 32](./images/esp32-wroom-32.jpg) | Alternativa para prototipos |
-| **Antena WiFi** | ![Antena WiFi](./images/wifi-antenna.jpg) | Mejora la recepción de señal WiFi |
-| **nRF24L01 Alcance L** | ![nRF24L01 Long Range](./images/nrf24l01-long-range.jpg) | Comunicación RF de largo alcance |
-| **nRF24L01 Alcance M** | ![nRF24L01 Medium Range](./images/nrf24l01-medium-range.jpg) | Comunicación RF estándar |
+| **ESP32 WROOM 32U** | ![ESP32 WROOM 32U](https://cdnx.jumpseller.com/mactornica/image/18172426/H926b1be9ccff47c69563694b726cef17p.webp?1655400654) | Microcontrolador principal con conectividad WiFi/Bluetooth |
+| **ESP32 WROOM 32** | ![ESP32 WROOM 32]([./images/esp32-wroom-32.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRHrFQJuoWDZ9F5hOc4_knXqrqqHQkSiM5YA&s)) | Alternativa para prototipos |
+| **Antena WiFi** | ![Antena WiFi](https://www.sigmaelectronica.net/wp-content/uploads/2020/11/ANTENA-WIFI-SMA-M.jpg) | Mejora la recepción de señal WiFi |
+| **nRF24L01 Alcance L** | ![nRF24L01 Long Range](https://ae01.alicdn.com/kf/HTB1W9CuUSzqK1RjSZPcq6zTepXag/SPI-nRF24L01-PA-LNA-2-4-GHz-Rf-m-dulo-E01-ML01DP5-2-5-km-de.jpg) | Comunicación RF de largo alcance |
+| **nRF24L01 Alcance M** | ![nRF24L01 Medium Range](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmGQfGSmjzNnnoCHXciU73zUsaSPXnrTgxfQ&s) | Comunicación RF estándar |
 
 ---
 
@@ -33,10 +33,10 @@ Inspirado en: *Video de referencia (por añadir)*
 
 | Componente | Imagen | Descripción |
 |-------------|---------|-------------|
-| **Pantalla OLED 1.3"** | ![OLED 1.3"](./images/oled-1.3inch.jpg) | Pantalla grande para visualización |
-| **Pantalla OLED 0.96"** | ![OLED 0.96"](./images/oled-0.96inch.jpg) | Pantalla compacta alternativa |
-| **Botón Pulsador** | ![Botón Pulsador](./images/tactile-button.jpg) | Interfaz de usuario táctil |
-| **Módulo Control LED** | ![Módulo LED](./images/led-controller.jpg) | Control de indicadores luminosos |
+| **Pantalla OLED 1.3"** | ![OLED 1.3"](https://electronilab.co/wp-content/uploads/2020/11/Display-OLED-1.3-128%C3%9764-I2C-Bajo-Consumo-Blanco-2.jpg) | Pantalla grande para visualización |
+| **Pantalla OLED 0.96"** | ![OLED 0.96"](https://cdnx.jumpseller.com/mactornica/image/12200829/resize/570/765?1658260693) | Pantalla compacta alternativa |
+| **Botón Pulsador** | ![Botón Pulsador](https://electronilab.co/wp-content/uploads/2019/02/Micro-Boton-Pulsador-Switch-de-4-pines-1.jpg) | Interfaz de usuario táctil |
+| **Módulo Control LED** | ![Módulo LED](https://naylampmechatronics.com/4090-superlarge_default/modulo-led-rgb-ws2812b.jpg) | Control de indicadores luminosos |
 
 ---
 
@@ -44,9 +44,8 @@ Inspirado en: *Video de referencia (por añadir)*
 
 | Componente | Imagen | Descripción |
 |-------------|---------|-------------|
-| **Cables Prototipo** | ![Cables Prototipo](./images/jumper-wires.jpg) | Conexiones para prototipado |
-| **Placas Prototipo** | ![Placa Prototipo](./images/protoboard.jpg) | Base para montaje de componentes |
-| **Cargador de Batería** | ![Cargador de Batería](./images/battery-charger.jpg) | Gestión de alimentación por baterías |
+| **Cables Prototipo** | ![Cables Prototipo](https://www.lacasadelabanda.com/wp-content/uploads/2021/12/Jumper-macho-macho-20-cm-x-10-1.jpg) | Conexiones para prototipado |
+| **Placas Prototipo** | ![Placa Prototipo](https://sumador.com/cdn/shop/products/Protoboardde400puntos_2048x2048.jpg?v=1588537859) | Base para montaje de componentes |
 
 ---
 
@@ -54,12 +53,12 @@ Inspirado en: *Video de referencia (por añadir)*
 
 | Etapa | Estado |
 |--------|---------|
-| 🏗️ **Fase Actual** | Planificación |
-| ✅ **Lista de componentes** | Definida |
-| ⏳ **Diseño de esquemáticos** | En progreso |
-| 🔄 **Recolección de materiales** | En curso |
-| 🚫 **Código firmware** | Pendiente |
-| 🚫 **Ensamblaje** | Pendiente |
+|  **Fase Actual** | Planificación |
+|  **Lista de componentes** | Definida |
+| **Diseño de esquemáticos** | En progreso |
+| **Recolección de materiales** | En curso |
+|  **Código firmware** | Pendiente |
+|  **Ensamblaje** | Pendiente |
 
 ---
 
@@ -75,7 +74,7 @@ Inspirado en: *Video de referencia (por añadir)*
 
 ## 📁 Recursos Descargables
 
-📦 **Drivers y Firmware** — [Descargar desde MEGA](#)  
+**Drivers y Firmware** — [Descargar desde MEGA](#https://mega.nz/folder/OQpDnLgY#gKpLGsnu_np7O00hVTvWxg)  
 Incluye:
 
 - Controladores para componentes  
@@ -85,32 +84,25 @@ Incluye:
 
 ---
 
-## 🔌 Esquemáticos
+##  Esquemáticos
 
 **Diagrama preliminar de conexiones**  
-> 🧠 *Sujeto a cambios durante el desarrollo.*
+> *Sujeto a cambios durante el desarrollo.*
 
 ![Esquemático nRFBox](./images/esquematico-nrfbox.png)
 
-**Distribución propuesta para la placa**
 
-![Layout de la placa](./images/layout-placa.png)
 
----
+## Instalación y Configuración
 
-## 🛠️ Instalación y Configuración
-
-> 🔜 Esta sección se completará cuando el firmware esté disponible.  
+>  Esta sección se completará cuando el firmware esté disponible.  
 > Se incluirán pasos detallados para instalación, flasheo del firmware y configuración inicial.
 
 ---
 
-## ⚠️ Advertencia de Seguridad
+##  Advertencia de Seguridad
 
 > Este proyecto es **EXCLUSIVAMENTE para fines educativos** en ambientes controlados.  
 > El uso inapropiado de estas tecnologías puede violar leyes locales.
 
----
 
-📌 **Autor:** Proyecto en desarrollo personal  
-✉️ **Contacto:** *(por definir)*  
