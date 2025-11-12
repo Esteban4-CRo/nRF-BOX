@@ -89,7 +89,7 @@ Incluye:
 **Diagrama preliminar de conexiones**  
 > *Sujeto a cambios durante el desarrollo.*
 
-![Esquemático nRFBox](Esquema.png)
+![Esquemático nRFBox](./Esquema.png)
 
 
 
