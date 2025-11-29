@@ -93,10 +93,10 @@ Incluye:
 ## Resultado
 
 > Siguiendo el esquemático así debería de quedar nuestro nRFBOX
-![Esquemático nRFBox](./MedimumR.png)
+![Esquemático nRFBox](./MedimumR.jpg)
 ---
 > Encendido
-![Esquemático nRFBox](./FinalR.png)
+![Esquemático nRFBox](./FinalR.jpgg)
 ---
 
 ##  Advertencia de Seguridad
