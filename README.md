@@ -1,8 +1,5 @@
 # 📡 nRFBox - Proyecto de Aprendizaje
 
-> **PROYECTO EN CONSTRUCCIÓN**  
-> **Fecha de inicio:** 2024  
-> **Última actualización:** 2025-11-11  
 
 ---
 
@@ -93,11 +90,13 @@ Incluye:
 
 
 
-## Instalación y Configuración
+## Resultado
 
->  Esta sección se completará cuando el firmware esté disponible.  
-> Se incluirán pasos detallados para instalación, flasheo del firmware y configuración inicial.
-
+> Siguiendo el esquemático así debería de quedar nuestro nRFBOX
+![Esquemático nRFBox](./MedimumR.png)
+---
+> Encendido
+![Esquemático nRFBox](./FinalR.png)
 ---
 
 ##  Advertencia de Seguridad
