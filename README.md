@@ -9,7 +9,7 @@ Incluye una versión mejorada con correcciones y componentes actualizados.
 
 ### Repositorio de referencia
 
-**[https://www.youtube.com/watch?v=fdLniWPArmw&t=619s](https://github.com/cifertech/nRFBox.git)]**
+**[https://github.com/cifertech/nRFBox.git](https://github.com/cifertech/nRFBox.git)]**
 
 ---
 
